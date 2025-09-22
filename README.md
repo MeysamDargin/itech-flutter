@@ -21,33 +21,31 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 
 ---
 
-## 📸 Demo Screenshots
-
 ## 📸 Demo Screenshots  
 
 | Home | Article | AI Chat |  
 |------|---------|---------|  
-| ![Demo1](demo/Screenshot%202025-09-22%20at%209.02.23 PM.png) | ![Demo2](demo/Screenshot%202025-09-22%20at%209.02.35 PM.png) | ![Demo3](demo/Screenshot%202025-09-22%20at%209.02.43 PM.png) |  
+| ![Demo1](demo/Screenshot%202025-09-22%20at%209.02.23%20PM.png) | ![Demo2](demo/Screenshot%202025-09-22%20at%209.02.35%20PM.png) | ![Demo3](demo/Screenshot%202025-09-22%20at%209.02.43%20PM.png) |  
 
 | Summarization | TechTalk | Dark Mode |  
 |---------------|----------|-----------|  
-| ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07 PM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18 PM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43 PM.png) |  
+| ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07%20PM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18%20PM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43%20PM.png) |  
 
 | Profile | Settings | Search |  
 |---------|----------|--------|  
-| ![Demo7](demo/Screenshot%202025-09-22%20at%209.03.53 PM.png) | ![Demo8](demo/Screenshot%202025-09-22%20at%209.04.05 PM.png) | ![Demo9](demo/Screenshot%202025-09-22%20at%209.04.31 PM.png) |  
+| ![Demo7](demo/Screenshot%202025-09-22%20at%209.03.53%20PM.png) | ![Demo8](demo/Screenshot%202025-09-22%20at%209.04.05%20PM.png) | ![Demo9](demo/Screenshot%202025-09-22%20at%209.04.31%20PM.png) |  
 
 | Notifications | Login | Register |  
 |---------------|-------|----------|  
-| ![Demo10](demo/Screenshot%202025-09-22%20at%209.04.52 PM.png) | ![Demo11](demo/Screenshot%202025-09-22%20at%209.05.04 PM.png) | ![Demo12](demo/Screenshot%202025-09-22%20at%209.05.47 PM.png) |  
+| ![Demo10](demo/Screenshot%202025-09-22%20at%209.04.52%20PM.png) | ![Demo11](demo/Screenshot%202025-09-22%20at%209.05.04%20PM.png) | ![Demo12](demo/Screenshot%202025-09-22%20at%209.05.47%20PM.png) |  
 
 | Dashboard | Statistics | About |  
 |-----------|------------|-------|  
-| ![Demo13](demo/Screenshot%202025-09-22%20at%209.05.54 PM.png) | ![Demo14](demo/Screenshot%202025-09-22%20at%209.06.08 PM.png) | ![Demo15](demo/Screenshot%202025-09-22%20at%209.06.30 PM.png) |  
+| ![Demo13](demo/Screenshot%202025-09-22%20at%209.05.54%20PM.png) | ![Demo14](demo/Screenshot%202025-09-22%20at%209.06.08%20PM.png) | ![Demo15](demo/Screenshot%202025-09-22%20at%209.06.30%20PM.png) |  
 
 | Help | Contact | Extra |  
 |------|---------|-------|  
-| ![Demo16](demo/Screenshot%202025-09-22%20at%209.06.45 PM.png) | ![Demo17](demo/Screenshot%202025-09-22%20at%209.06.56 PM.png) |  |  
+| ![Demo16](demo/Screenshot%202025-09-22%20at%209.06.45%20PM.png) | ![Demo17](demo/Screenshot%202025-09-22%20at%209.06.56%20PM.png) |  |  
 
 *(You can replace the images above with your own screenshots from the app.)*
 
