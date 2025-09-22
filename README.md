@@ -47,8 +47,6 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 |------|---------|  
 | ![Demo16](demo/Screenshot%202025-09-22%20at%209.06.45%E2%80%AFPM.png) | ![Demo17](demo/Screenshot%202025-09-22%20at%209.06.56%E2%80%AFPM.png) |
 
-*(You can replace the images above with your own screenshots from the app.)*
-
 ---
 
 ## 🛠️ Tech Stack
