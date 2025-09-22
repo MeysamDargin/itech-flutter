@@ -23,13 +23,31 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 
 ## 📸 Demo Screenshots
 
-| Home | Article | AI Chat |
-|------|---------|---------|
-| ![Demo1](demo/demo1.png) | ![Demo2](demo/demo2.png) | ![Demo3](demo/demo3.png) |
+## 📸 Demo Screenshots  
 
-| Summarization | TechTalk | Dark Mode |
-|---------------|----------|-----------|
-| ![Demo4](demo/demo4.png) | ![Demo5](demo/demo5.png) | ![Demo6](demo/demo6.png) |
+| Home | Article | AI Chat |  
+|------|---------|---------|  
+| ![Demo1](demo/Screenshot%202025-09-22%20at%209.02.23 PM.png) | ![Demo2](demo/Screenshot%202025-09-22%20at%209.02.35 PM.png) | ![Demo3](demo/Screenshot%202025-09-22%20at%209.02.43 PM.png) |  
+
+| Summarization | TechTalk | Dark Mode |  
+|---------------|----------|-----------|  
+| ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07 PM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18 PM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43 PM.png) |  
+
+| Profile | Settings | Search |  
+|---------|----------|--------|  
+| ![Demo7](demo/Screenshot%202025-09-22%20at%209.03.53 PM.png) | ![Demo8](demo/Screenshot%202025-09-22%20at%209.04.05 PM.png) | ![Demo9](demo/Screenshot%202025-09-22%20at%209.04.31 PM.png) |  
+
+| Notifications | Login | Register |  
+|---------------|-------|----------|  
+| ![Demo10](demo/Screenshot%202025-09-22%20at%209.04.52 PM.png) | ![Demo11](demo/Screenshot%202025-09-22%20at%209.05.04 PM.png) | ![Demo12](demo/Screenshot%202025-09-22%20at%209.05.47 PM.png) |  
+
+| Dashboard | Statistics | About |  
+|-----------|------------|-------|  
+| ![Demo13](demo/Screenshot%202025-09-22%20at%209.05.54 PM.png) | ![Demo14](demo/Screenshot%202025-09-22%20at%209.06.08 PM.png) | ![Demo15](demo/Screenshot%202025-09-22%20at%209.06.30 PM.png) |  
+
+| Help | Contact | Extra |  
+|------|---------|-------|  
+| ![Demo16](demo/Screenshot%202025-09-22%20at%209.06.45 PM.png) | ![Demo17](demo/Screenshot%202025-09-22%20at%209.06.56 PM.png) |  |  
 
 *(You can replace the images above with your own screenshots from the app.)*
 
