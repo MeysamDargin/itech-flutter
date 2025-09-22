@@ -25,7 +25,7 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 
 | Home | Article | AI Chat |  
 |------|---------|---------|  
-| ![Demo1](demo/Screenshot%202025-09-22%20at%209.02.23%20PM.png) | ![Demo2](demo/Screenshot%202025-09-22%20at%209.02.35%20PM.png) | ![Demo3](demo/Screenshot%202025-09-22%20at%209.02.43%20PM.png) |  
+| ![Demo1](demo/Screenshot%202025-09-22%20at%209.02.23%E2%80%AFPM.png) | ![Demo2](demo/Screenshot%202025-09-22%20at%209.02.35%20PM.png) | ![Demo3](demo/Screenshot%202025-09-22%20at%209.02.43%20PM.png) |  
 
 | Summarization | TechTalk | Dark Mode |  
 |---------------|----------|-----------|  
