@@ -67,7 +67,7 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
    ```
 2. Navigate to the project folder:
    ```bash
-   cd myiTechflutter
+   cd itech-flutter
    ```
 3. Install dependencies:
    ```bash
