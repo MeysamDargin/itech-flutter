@@ -1,0 +1,134 @@
+name: itech
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.4.0
+  flutter_secure_storage: ^9.2.4
+  intl: ^0.20.2
+  web_socket_channel: ^3.0.3
+  provider: ^6.1.5
+  image_picker: ^1.1.2
+  http_parser: ^4.1.2
+  path: ^1.9.1
+  file_picker: ^10.2.0
+  super_editor: ^0.3.0-dev.27
+  video_player: ^2.9.5
+  path_provider: ^2.1.5
+
+  # استفاده از نسخه‌های لوکال
+  flutter_quill_extensions:
+    path: /Users/a7/Downloads/flutter-quill-master/flutter_quill_extensions
+  flutter_quill:
+    path: /Users/a7/Downloads/flutter-quill-master
+  flutter_highlight: ^0.7.0
+  # flutter_html:
+  #   git:
+  #     url: https://github.com/Sub6Resources/flutter_html.git
+  pull_to_refresh_flutter3: ^2.0.2
+  lottie: ^3.3.1
+  vsc_quill_delta_to_html: ^1.0.5
+  flutter_spinkit: ^5.2.1
+  flutter_quill_delta_from_html: ^1.5.2
+  awesome_snackbar_content: ^0.1.6
+  shimmer: ^3.0.0
+  simple_animations: ^5.2.0
+  emoji_picker_flutter: ^4.3.0
+  liquid_glass_renderer: ^0.1.1-dev.9
+  visibility_detector: ^0.4.0+2
+  flutter_slidable: ^4.0.0
+  google_fonts: ^6.2.1
+  animated_nav_sheet: 1.1.0
+  # emoji_picker_flutter: ^4.3.0
+  flutter_html: ^3.0.0-beta.1
+  country_flags: ^3.3.0
+  flutter_markdown: ^0.6.18
+  url_launcher: ^6.2.5
+  flutter_launcher_icons: ^0.14.4
+  flutter_svg: ^2.2.1
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+dependency_overrides:
+  # flutter_quill:
+  #   path: /Users/user/Downloads/flutter-quill-master
+  # flutter_html:
+  #   path: /Users/user/Downloads/flutter_html-master
+  # emoji_picker_flutter:
+  #   path: /Users/user/Downloads/emoji_picker_flutter-master
+
+flutter_launcher_icons:
+  ios: true
+  android: false
+  image_path: "assets/logo/logo.png"
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/
+    - assets/logo/
+    - assets/icons/
+    - assets/animation/
+    - assets/rive/
+    - assets/weather_icons/
+
+
+  fonts:
+    - family: Outfit
+      fonts:
+        - asset: assets/fonts/Outfit-Regular.ttf
+    - family: Myfonts
+      fonts:
+        - asset: assets/fonts/icomoon.ttf
+    - family: Outfit-Medium
+      fonts:
+        - asset: assets/fonts/Outfit-Medium.ttf
+    - family: Outfit-bold
+      fonts:
+        - asset: assets/fonts/Outfit-Bold.ttf
+    - family: sf-b
+      fonts:
+        - asset: assets/fonts/SF-Pro-Text-Bold.otf
+    - family: sf-m
+      fonts:
+        - asset: assets/fonts/SF-Pro-Text-Medium.otf
+    - family: poppins-italic
+      fonts:
+        - asset: assets/fonts/poppins.medium-italic.ttf
+    - family: a-b
+      fonts:
+        - asset: assets/fonts/TestSohne-Halbfett-BF663d89cd2d67b.otf
+    - family: a-xb
+      fonts:
+        - asset: assets/fonts/TestSohne-Fett-BF663d89cca89ff.otf
+    - family: a-r
+      fonts:
+        - asset: assets/fonts/TestSohne-Buch-BF663d89cd32e6a.otf
+    - family: a-m
+      fonts:
+        - asset: assets/fonts/TestSohne-Kraftig-BF663d89cd37e26.otf
+    - family: g-m
+      fonts:
+        - asset: assets/fonts/NotoSerifGeorgian_Condensed-Medium.ttf
+    - family: g-r
+      fonts:
+        - asset: assets/fonts/NotoSerifGeorgian_Condensed-ExtraLight.ttf
+    - family: g-b
+      fonts:
+        - asset: assets/fonts/NotoSerifGeorgian_Condensed-ExtraBold.ttf
+    - family: fr-r
+      fonts:
+        - asset: assets/fonts/FiraCode-Regular.ttf
