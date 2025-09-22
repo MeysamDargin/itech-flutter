@@ -31,13 +31,13 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 |---------------|----------|-----------|  
 | ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07%E2%80%AFPM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18%E2%80%AFPM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43%E2%80%AFPM.png) |  
 
-| Edite Profile | Settings | Search |  
+| Edite Profile | Settings | Article page |  
 |---------|----------|--------|  
-| ![Demo7](demo/Screenshot%202025-09-22%20at%209.03.53%E2%80%AFPM.png) | ![Demo8](demo/Screenshot%202025-09-22%20at%209.04.05%20PM.png) | ![Demo9](demo/Screenshot%202025-09-22%20at%209.04.05%E2%80%AFPM.png) |  
+| ![Demo7](demo/Screenshot%202025-09-22%20at%209.03.53%E2%80%AFPM.png) | ![Demo8](demo/Screenshot%202025-09-22%20at%209.04.05%E2%80%AFPM.png) | ![Demo9](demo/Screenshot%202025-09-22%20at%209.04.31%E2%80%AFPM.png) |  
 
-| Notifications | Login | Register |  
+| Tech Talk | Ai options | Profile page dark |  
 |---------------|-------|----------|  
-| ![Demo10](demo/Screenshot%202025-09-22%20at%209.04.52%20PM.png) | ![Demo11](demo/Screenshot%202025-09-22%20at%209.05.04%20PM.png) | ![Demo12](demo/Screenshot%202025-09-22%20at%209.05.47%20PM.png) |  
+| ![Demo10](demo/Screenshot%202025-09-22%20at%209.04.52%E2%80%AFPM.png) | ![Demo11](demo/Screenshot%202025-09-22%20at%209.05.04%E2%80%AFPM.png) | ![Demo12](demo/Screenshot%202025-09-22%20at%209.05.04%E2%80%AFPM.png) |  
 
 | Dashboard | Statistics | About |  
 |-----------|------------|-------|  
