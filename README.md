@@ -63,7 +63,7 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeysamDargin/myiTechflutter.git
+   git clone https://github.com/MeysamDargin/itech-flutter.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -91,8 +91,6 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 ## 👨‍💻 Author
 
 Developed with ❤️ by **Meysam Dargin**  
-- [GitHub](https://github.com/MeysamDargin)  
-- [LinkedIn](#) (add your LinkedIn if you want)  
 
 ---
 
