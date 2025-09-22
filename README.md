@@ -29,11 +29,11 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 
 | Home | Save page | Profile |  
 |---------------|----------|-----------|  
-| ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07%E2%80%AFPM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18%E2%80%AFPM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43%20PM.png) |  
+| ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07%E2%80%AFPM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18%E2%80%AFPM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43%E2%80%AFPM.png) |  
 
-| Profile | Settings | Search |  
+| Edite Profile | Settings | Search |  
 |---------|----------|--------|  
-| ![Demo7](demo/Screenshot%202025-09-22%20at%209.03.53%20PM.png) | ![Demo8](demo/Screenshot%202025-09-22%20at%209.04.05%20PM.png) | ![Demo9](demo/Screenshot%202025-09-22%20at%209.04.31%20PM.png) |  
+| ![Demo7](demo/Screenshot%202025-09-22%20at%209.03.53%E2%80%AFPM.png) | ![Demo8](demo/Screenshot%202025-09-22%20at%209.04.05%20PM.png) | ![Demo9](demo/Screenshot%202025-09-22%20at%209.04.05%E2%80%AFPM.png) |  
 
 | Notifications | Login | Register |  
 |---------------|-------|----------|  
