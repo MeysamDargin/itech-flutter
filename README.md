@@ -44,7 +44,7 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 | ![Demo13](demo/Screenshot%202025-09-22%20at%209.05.54%E2%80%AFPM.png) | ![Demo14](demo/Screenshot%202025-09-22%20at%209.06.08%E2%80%AFPM.png) | ![Demo15](demo/Screenshot%202025-09-22%20at%209.06.30%E2%80%AFPM.png) |  
 
 | Daly hub dark | Daly hub |  
-|------|---------|-------|  
+|------|---------|  
 | ![Demo16](demo/Screenshot%202025-09-22%20at%209.06.45%E2%80%AFPM.png) | ![Demo17](demo/Screenshot%202025-09-22%20at%209.06.56%E2%80%AFPM.png) |
 
 *(You can replace the images above with your own screenshots from the app.)*
