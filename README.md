@@ -23,13 +23,13 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 
 ## 📸 Demo Screenshots  
 
-| Home | Article | AI Chat |  
+| Landing | Login | Sing in |  
 |------|---------|---------|  
-| ![Demo1](demo/Screenshot%202025-09-22%20at%209.02.23%E2%80%AFPM.png) | ![Demo2](demo/Screenshot%202025-09-22%20at%209.02.35%20PM.png) | ![Demo3](demo/Screenshot%202025-09-22%20at%209.02.43%20PM.png) |  
+| ![Demo1](demo/Screenshot%202025-09-22%20at%209.02.23%E2%80%AFPM.png) | ![Demo2](demo/Screenshot%202025-09-22%20at%209.02.35%E2%80%AFPM.png) | ![Demo3](demo/Screenshot%202025-09-22%20at%209.02.43%E2%80%AFPM.png) |  
 
-| Summarization | TechTalk | Dark Mode |  
+| Home | Save page | Profile |  
 |---------------|----------|-----------|  
-| ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07%20PM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18%20PM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43%20PM.png) |  
+| ![Demo4](demo/Screenshot%202025-09-22%20at%209.03.07%E2%80%AFPM.png) | ![Demo5](demo/Screenshot%202025-09-22%20at%209.03.18%E2%80%AFPM.png) | ![Demo6](demo/Screenshot%202025-09-22%20at%209.03.43%20PM.png) |  
 
 | Profile | Settings | Search |  
 |---------|----------|--------|  
