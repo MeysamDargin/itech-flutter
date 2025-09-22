@@ -37,15 +37,15 @@ This project is built with **Flutter** and integrates advanced tools to enhance 
 
 | Tech Talk | Ai options | Profile page dark |  
 |---------------|-------|----------|  
-| ![Demo10](demo/Screenshot%202025-09-22%20at%209.04.52%E2%80%AFPM.png) | ![Demo11](demo/Screenshot%202025-09-22%20at%209.05.04%E2%80%AFPM.png) | ![Demo12](demo/Screenshot%202025-09-22%20at%209.05.04%E2%80%AFPM.png) |  
+| ![Demo10](demo/Screenshot%202025-09-22%20at%209.04.52%E2%80%AFPM.png) | ![Demo11](demo/Screenshot%202025-09-22%20at%209.05.04%E2%80%AFPM.png) | ![Demo12](demo/Screenshot%202025-09-22%20at%209.05.47%E2%80%AFPM.png) |  
 
-| Dashboard | Statistics | About |  
+| Home dark | Article page dark | Save page dark |  
 |-----------|------------|-------|  
-| ![Demo13](demo/Screenshot%202025-09-22%20at%209.05.54%20PM.png) | ![Demo14](demo/Screenshot%202025-09-22%20at%209.06.08%20PM.png) | ![Demo15](demo/Screenshot%202025-09-22%20at%209.06.30%20PM.png) |  
+| ![Demo13](demo/Screenshot%202025-09-22%20at%209.05.54%E2%80%AFPM.png) | ![Demo14](demo/Screenshot%202025-09-22%20at%209.06.08%E2%80%AFPM.png) | ![Demo15](demo/Screenshot%202025-09-22%20at%209.06.30%E2%80%AFPM.png) |  
 
-| Help | Contact | Extra |  
+| Daly hub dark | Daly hub |  
 |------|---------|-------|  
-| ![Demo16](demo/Screenshot%202025-09-22%20at%209.06.45%20PM.png) | ![Demo17](demo/Screenshot%202025-09-22%20at%209.06.56%20PM.png) |  |  
+| ![Demo16](demo/Screenshot%202025-09-22%20at%209.06.45%E2%80%AFPM.png) | ![Demo17](demo/Screenshot%202025-09-22%20at%209.06.56%E2%80%AFPM.png) |
 
 *(You can replace the images above with your own screenshots from the app.)*
 
